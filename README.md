@@ -1,7 +1,7 @@
 # Charmingkimmy
 
 # 💫 About Me:
-Hi there, I'm Realyn! 👋<br><br>I am a recent **Computer Science graduate** passionate about bridging the gap between clean code and great user experiences. I love building functional systems and am currently focused on expanding my skills in **UI/UX Design**, **Mobile Game Development**, and **Web Systems**.<br><br>Whether it's designing an intuitive interface, optimizing a backend system, or crafting interactive digital experiences, I'm always eager to learn, build, and improve.<br><br>---<br><br> 🚀 What I'm Up To<br>* 🎨 **UI/UX:** Designing clean, responsive, and user-centric interfaces.<br>* 🕹️ * 💻 **Web Systems:** Building a  scalable web applications.<br><br><br>
+Hi there, I'm Realyn! 👋<br><br>I am a recent **Computer Science graduate** passionate about bridging the gap between clean code and great user experiences. I love building functional systems and am currently focused on expanding my skills in **UI/UX Design**, **Mobile Game Development**, and **Web Systems**.<br><br>Whether it's designing an intuitive interface, optimizing a backend system, or crafting interactive digital experiences, I'm always eager to learn, build, and improve.<br><br>---<br><br> 🚀 What I'm Up To<br>* 🎨 **UI/UX:** Designing clean, responsive, and user-centric interfaces.<br>* 🕹️ * 💻 **game developer:** full stack developer.<br><br><br>
 
 
 ## 🌐 Socials:
